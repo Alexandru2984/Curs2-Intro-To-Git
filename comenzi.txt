@@ -1,0 +1,8 @@
+
+
+git init -> Initializeaza proiectul de git local -> creeaza un folder .git ascuns
+
+git clone [link catre repozitoriul git] ->  Descarca de pe server un proiect de git 
+
+
+
