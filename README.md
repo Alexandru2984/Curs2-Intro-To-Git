@@ -1,2 +1,2 @@
 # Curs2-Intro-To-Git
-Cursul 2 din 31 ianuarie
+Cursul 2 din 31 ianuarie --> cele mai folosite comenzi din GIT
