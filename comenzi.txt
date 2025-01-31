@@ -27,6 +27,8 @@ git commit -am "Acesta este un mesaj descriptiv al commitului/versiunii" --> Est
 git commit -m "Mesaj descriptiv" -> creeaza commitul
 
 
+git config --global core.editor "code --wait" -> Deschiderea editorului Visual Studio Code ca editor defaul pentru git 
+
 
 
 
