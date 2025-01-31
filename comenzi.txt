@@ -16,6 +16,8 @@ git add filename1 filename2 filename3
 
 ####
 
+git config --global init.defaultBranch <main> --> denumirea branchului initial main
+
 git config --global user.name "Numele tau" -> configurarea numelui global 
 git config --global user.name -> Citirea numelui utilizatorului
 
@@ -37,7 +39,10 @@ git push, git push origin -->Pentru a pune codul pe server
 git pull, git pull origin  -->Pentru a lua codul de pe server
 
 
+###Pentru lucruri cu branch-uri
+git branch --> listarea tuturor branch-urilor
 
+git branch -m [numele_branchului] --> redenumirea branchului curent in [numele_branchului]
 
 
 
