@@ -9,7 +9,7 @@ git log , git log --oneline -> Arata lista de commituri
 git status, git status -s -> Arata statusul fisierelor (daca sunt schimbate)
 
 ###Comenzi de crearea a commitului
- git add filenam ->  
+ git add filename ->  
 
 git add filename.*
 git add filename1 filename2 filename3 
@@ -21,4 +21,15 @@ git config --global user.name -> Citirea numelui utilizatorului
 
 git config--global user.email "Email ul tau" -> configurarea emailului 
 git config--global user.email -> Citirea emailului utilizatorului 
+
+git commit -am "Acesta este un mesaj descriptiv al commitului/versiunii" --> Este un fel de git add+ git commit(comanda de adauga+git) pentru fisierele care sunt tracked(au fost incluse intr un commit inainte)
+
+git commit -m "Mesaj descriptiv" -> creeaza commitul
+
+
+
+
+
+
+
 
