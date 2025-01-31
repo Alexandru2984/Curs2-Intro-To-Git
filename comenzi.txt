@@ -29,6 +29,8 @@ git commit -m "Mesaj descriptiv" -> creeaza commitul
 
 git config --global core.editor "code --wait" -> Deschiderea editorului Visual Studio Code ca editor defaul pentru git 
 
+git commit --amend -> Modificarea mesajului ultimului commit 
+
 
 
 
